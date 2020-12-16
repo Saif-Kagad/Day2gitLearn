@@ -1,4 +1,7 @@
 file 2
 
 conflict changes
+
 changes made in local repos
+
+changes mage in git hubb
