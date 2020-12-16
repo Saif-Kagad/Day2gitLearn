@@ -1,0 +1,7 @@
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2\SampleProjectSolution\SampleProject\obj\Debug\SampleProject.pdb
