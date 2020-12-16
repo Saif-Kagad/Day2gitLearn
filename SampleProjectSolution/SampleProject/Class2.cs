@@ -8,7 +8,7 @@ namespace SampleProject
 {
     class Class2
     {
-        public void Second()
+        public  void Second()
         {
             Console.WriteLine("hello from github");
         }
